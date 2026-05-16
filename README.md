@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="download.gif" alt="banner" width="100%"/>
+</div>
+
 # Hi, I'm Shrabony Ghosh Tithy 👋
 
 **Frontend Developer**
