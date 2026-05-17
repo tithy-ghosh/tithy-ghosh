@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="download.gif" alt="banner" wwidth="1000" height="500"/>
+  <img src="download.gif" alt="banner" wwidth="1500" height="500"/>
 </div>
 
 # Hi, I'm Shrabony Ghosh Tithy 👋
