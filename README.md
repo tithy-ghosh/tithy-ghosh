@@ -54,6 +54,17 @@ continuously improving my development skills through hands-on projects.
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Description | Live |
+|---|---|---|
+| [Github-Profile-Analyzer](https://github.com/tithy-ghosh/github-profile-analyzer) | A React app to explore any GitHub profile with visual insights on languages, repositories, and activity — built with Axios, Recharts, and Tailwind CSS. | [Demo](https://github-profile-analyze-2.netlify.app/) |
+| [Vault-Manager](https://github.com/tithy-ghosh/Vault-Manager) | Vault Manager — A local password manager built with React that encrypts your credentials right in the browser — no server, no cloud, just you. | [Demo](https://vault-manager-2.vercel.app/) |
+| [Task-Zen](https://github.com/tithy-ghosh/Task-Zen) |  Task Zen — A clean React task manager with priority levels, due dates, and filtering — all saved locally in your browser. | [Demo](https://task-zen-sooty-kappa.vercel.app/) |
+| [Snake-Game](https://github.com/tithy-ghosh/Snake-Game) |  Snake Game — A classic Snake game built with vanilla JavaScript and Tailwind CSS, featuring smooth gameplay, speed progression, and high score tracking. | [Demo](https://snake-game-hn8y.vercel.app/) |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
