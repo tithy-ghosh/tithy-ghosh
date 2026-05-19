@@ -4,7 +4,7 @@
 
 # Hi, I'm Shrabony Ghosh Tithy 👋
 
-**Frontend Developer**
+**Frontend Developer | Aspiring Researcher**
 📍 Sylhet, Bangladesh  ·  📧 sgt.tithy.717@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrabony-ghosh-tithy/)
