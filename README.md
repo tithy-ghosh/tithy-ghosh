@@ -1,104 +1,55 @@
-<div align="center">
+<h1 align="center">Tithy Ghosh</h1>
 
-```
- ┌──────────────────────────────────────────────┐
- │  tithy@sylhet:~$ whoami                      │
- │  > full-stack dev · MERN · Next.js           │
- │  tithy@sylhet:~$ status --open-to-work       │
- │  > remote internships & junior roles ✔       │
- └──────────────────────────────────────────────┘
-```
+<p align="center">
+  <b>Full-Stack Developer (MERN · Next.js) building AI-powered web applications</b><br/>
+  CS&E @ Sylhet Engineering College · Sylhet, Bangladesh
+</p>
 
-# Hi, I'm Tithy
-
-**CS&E student at Sylhet Engineering College (2024–2028) who ships full-stack apps.**
-I like turning "what if" ideas into working products, especially ones with AI inside.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-tithy--ghosh.vercel.app-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white)](https://tithy-ghosh.vercel.app)
-[![Email](https://img.shields.io/badge/Email-sgt.tithy.717@gmail.com-0b0b0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgt.tithy.717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-
-</div>
-
----
-
-## `about.js`
-
-```js
-const tithy = {
-  role: "Frontend / Full-Stack (MERN) Developer",
-  location: "Sylhet, Bangladesh 🇧🇩",
-  studying: "Computer Science & Engineering",
-  currentlyBuilding: "Rezume.ai, an AI interview-prep tool",
-  exploring: ["RAG pipelines", "Text-to-SQL research", "LLM-powered apps"],
-  availability: "20-30 hrs/week · remote · project-based or internship",
-  lookingFor: ["Frontend internships", "Full-stack / MERN junior roles"],
-  funFact: "I debug best after midnight. This README was written at 12 AM.",
-};
-```
-
----
-
-## 🛠 Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,tailwind,vite,git,github,vercel&perline=12" alt="Tech stack" />
+<p align="center">
+  <a href="https://tithy-ghosh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sgt.tithy.717@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 🚀 Things I've shipped
+### About
 
-| Project | What it does | Built with |
-|---|---|---|
-| **[Rezume.ai](https://github.com/tithy-ghosh/REPO-NAME)** | Paste a job description, get a tailored interview-prep report | Next.js 14 · AI |
-| **[Mystery Message](https://github.com/tithy-ghosh/REPO-NAME)** | Anonymous messaging with auth and AI-suggested messages | Next.js · MongoDB · NextAuth · OpenAI |
-| **[Anonymous Feedback](https://github.com/tithy-ghosh/REPO-NAME)** | Collect honest feedback via a private link, with email verification | Next.js · MongoDB · NextAuth · Nodemailer |
-| **[GitHub Profile Analyzer](https://github.com/tithy-ghosh/REPO-NAME)** | Turns any GitHub username into charts and insights | React · Recharts · GitHub REST API |
-| **[Job Analyzer](https://github.com/tithy-ghosh/REPO-NAME)** | Generates interview reports from a resume and job description | Node · Express · React · Vite · Gemini |
-| **[Portfolio](https://tithy-ghosh.vercel.app)** | My personal site | React · Vite · Tailwind |
+I build full-stack web applications with React, Next.js, Node.js and MongoDB, with a focus on clean UI, secure authentication and practical AI features. I'm currently looking for **remote frontend, full-stack or MERN internships and junior roles**, and I'm also available for project-based work (20-30 hrs/week).
 
----
+### Featured Projects
 
-## 🧭 `git log --oneline` (my journey so far)
+**[Rezume.ai](https://github.com/tithy-ghosh/REPO-NAME)**: AI-powered interview preparation tool. Generates tailored interview reports from a job description.
+`Next.js 14` `AI` `Tailwind CSS`
 
-```
-a1f9c2e  2026  Building AI products, exploring RAG and Text-to-SQL research
-7d3b8e4  2025  Shipped multiple full-stack MERN / Next.js projects
-3c5a1f0  2024  Started CS&E at Sylhet Engineering College
-0000001  ...    Wrote my first "Hello, World" and never looked back
-```
+**[Mystery Message](https://github.com/tithy-ghosh/REPO-NAME)**: Anonymous messaging platform with authentication and AI-suggested messages.
+`Next.js` `MongoDB` `NextAuth` `OpenAI`
 
----
+**[Anonymous Feedback](https://github.com/tithy-ghosh/REPO-NAME)**: Private feedback collection with email verification.
+`Next.js` `MongoDB` `NextAuth` `Nodemailer`
 
-## 🎯 How I work
+**[GitHub Profile Analyzer](https://github.com/tithy-ghosh/REPO-NAME)**: Visualizes any GitHub profile's activity with charts and insights.
+`React` `Recharts` `GitHub REST API`
 
-- **Ship first, polish fast.** A working demo beats a perfect plan.
-- **Readable code over clever code.** Future me has to read it too.
-- **Scope before price.** Send me the project details and I'll tell you honestly how long it takes.
+**[Job Analyzer](https://github.com/tithy-ghosh/REPO-NAME)**: Resume-to-job interview report generator.
+`Node.js` `Express` `React` `Vite` `Gemini`
 
----
+### Tech Stack
 
-<details>
-<summary><b>📨 Want to work together? (click)</b></summary>
+| Area | Tools |
+|---|---|
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite |
+| Backend | Node.js, Express, REST APIs, NextAuth |
+| Database | MongoDB |
+| AI | OpenAI API, Gemini API, RAG pipelines |
+| Tools | Git, GitHub, Vercel |
 
-<br>
+### Open To
 
-I'm open to **remote frontend, full-stack and MERN** internships, junior roles, and small project-based work.
+- Remote frontend / full-stack / MERN internships
+- Junior developer roles
+- Project-based freelance work (send scope, and I'll reply with timeline and quote)
 
-Send me:
-1. What you're building
-2. Rough timeline
-3. Any links, designs or docs you have
+### Contact
 
-I'll reply with scope, timeline and next steps.
-
-📧 sgt.tithy.717@gmail.com
-
-</details>
-
-<div align="center">
-
-<sub>Built with curiosity, caffeine and a lot of `console.log`</sub>
-
-</div>
+📧 sgt.tithy.717@gmail.com · 🌐 [tithy-ghosh.vercel.app](https://tithy-ghosh.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
