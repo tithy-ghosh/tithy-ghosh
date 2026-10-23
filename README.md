@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Shrabony%20Ghosh%20Tithy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20%7C%20Next.js%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Shrabony%20Ghosh%20Tithy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20%7C%20Next.js%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Tithy+%F0%9F%91%8B;CS%26E+Student+%7C+Sylhet+Engineering+College;I+build+full-stack+web+apps;Open+to+remote+internships+%26+junior+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Tithy+%F0%9F%91%8B;CS%26E+Student+%7C+Sylhet+Engineering+College;I+build+full-stack+web+apps;" alt="Typing SVG" />
 </a>
 
 <br />
 
 <a href="https://tithy-ghosh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shrabony-ghosh-tithy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sgt.tithy.717@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=tithy-ghosh&label=Profile%20views&color=06B6D4&style=for-the-badge" />
 
@@ -19,23 +19,20 @@
 
 ### 👩‍💻 About Me
 
-I'm a **CS&E student** (Batch 2024–2028) based in **Sylhet, Bangladesh**, and I love building full-stack web apps with **React, Next.js, Node.js, Express and MongoDB**. I like turning small ideas into things people can actually use: AI tools, anonymous message apps, dashboards and dev utilities.
+I'm a **CSE student** (Batch 2024–2028) based in **Sylhet, Bangladesh**, and I love building full-stack web apps with **React, Next.js, Node.js, Express and MongoDB**. I like turning small ideas into things people can actually use: AI tools, anonymous message apps, dashboards and dev utilities.
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+<img align="right" alt="Cute" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="320" />
 
 - 🔭 Building and polishing my portfolio projects
-- 🎯 Looking for **remote frontend / full-stack / MERN internships** and junior roles
-- 🤝 Open to project-based work, **20–30 hrs/week**
 - 🌱 Learning **Prisma, Drizzle, React Hook Form + Zod**
 - 💬 Ask me about **React, Next.js and MongoDB**
 - ⚡ Fun fact: `Eat | Sleep | Code | Repeat`
 
 ```js
 const tithy = {
-  role: "MERN / Next.js Developer",
-  education: "CS&E @ Sylhet Engineering College",
+  role: "Full Stack Developer",
+  education: "CSE @ Sylhet Engineering College",
   location: "Sylhet, Bangladesh",
-  lookingFor: ["Remote internships", "Junior dev roles"],
   currentlyLearning: ["Prisma", "Drizzle", "Zod"],
   funFact: "It works on my machine ¯\\_(ツ)_/¯",
 };
@@ -69,16 +66,9 @@ const tithy = {
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| 🧠 **Rezume AI** | AI interview prep: builds interview reports from your resume and generates ATS-friendly resumes | `Next.js 14` `Gemini` `MongoDB Atlas` `NextAuth` |
-| 💬 **Anonymous Feedback** | Collect honest feedback with OTP-verified accounts | `Next.js` `MongoDB` `NextAuth` `Nodemailer` |
-| 🕵️ **Mystery Message** | Anonymous messaging with AI-suggested messages | `Next.js` `MongoDB` `NextAuth` `OpenAI` |
-| 📊 **GitHub Profile Analyzer** | Analyze and compare GitHub profiles with charts and shareable links | `React` `Recharts` `GitHub API` |
-| 📋 **Kanban Board** | Dynamic task board with CRUD, column moves, tag filters and search | `React` |
-| 🌌 **Portfolio** | Dark, animated personal site with a terminal-style hero | `React` `Vite` `Tailwind` |
+<table> <tr> <td width="50%" valign="top"> <h4>🧠 Rezume AI</h4> AI interview prep. Turns your resume into an interview report with tailored questions and AI answers, and exports ATS-friendly resumes.<br /><br /> <code>Next.js 14</code> <code>Gemini</code> <code>MongoDB Atlas</code> <code>NextAuth</code><br /><br /> <a href="https://resume-analyzer-with-ai-nine.vercel.app">🔗 Live</a> · <a href="https://github.com/tithy-ghosh/Resume-Analyzer-With-AI">💻 Repo</a> </td> <td width="50%" valign="top"> <h4>🚚 SwiftShip</h4> Delivery platform SaaS with online payments through SSLCommerz, a clean light UI, custom branding and illustrated onboarding screens.<br /><br /> <code>JavaScript</code> <code>SSLCommerz</code><br /><br /> <a href="https://swift-ship-couriar.vercel.app/">🔗 Live</a> · <a href="https://github.com/tithy-ghosh/Swift-Ship">💻 Frontend</a> · <a href="https://github.com/tithy-ghosh/Swift-Ship-Backend">⚙️ Backend</a> </td> </tr> <tr> <td valign="top"> <h4>💬 Anonymous Feedback</h4> Collect honest feedback through your own link, with OTP-verified accounts.<br /><br /> <code>Next.js</code> <code>MongoDB</code> <code>NextAuth</code> <code>Nodemailer</code><br /><br /> <a href="https://github.com/tithy-ghosh/Anonymous-Feedback">💻 Repo</a> </td> <td valign="top"> <h4>📊 GitHub Profile Analyzer</h4> Explore and compare GitHub profiles with language stats, starred repos, activity and dark mode.<br /><br /> <code>React</code> <code>Recharts</code> <code>GitHub API</code><br /><br /> <a href="https://github-profile-analyze-2.netlify.app/">🔗 Live</a> · <a href="https://github.com/tithy-ghosh/github-profile-analyzer">💻 Repo</a> </td> </tr> <tr> <td valign="top"> <h4>🔐 Vault Manager</h4> Browser-based password manager with encrypted local storage, a master password, auto-lock and backups.<br /><br /> <code>React</code> <code>Tailwind</code><br /><br /> <a href="https://vault-manager-2.vercel.app/">🔗 Live</a> · <a href="https://github.com/tithy-ghosh/Vault-Manager">💻 Repo</a> </td> <td valign="top"> <h4>🌌 Portfolio</h4> Dark, animated personal site with a terminal-style hero.<br /><br /> <code>React</code> <code>Vite</code> <code>Tailwind</code><br /><br /> <a href="https://tithy-ghosh.vercel.app">🔗 Live</a> · <a href="https://github.com/tithy-ghosh/Personal-Portfolio">💻 Repo</a> </td> </tr> </table>
 
-👉 More on my [portfolio](https://tithy-ghosh.vercel.app) and [repositories](https://github.com/tithy-ghosh?tab=repositories).
+More on my repositories page.
 
 ---
 
