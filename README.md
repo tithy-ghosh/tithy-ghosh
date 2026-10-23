@@ -21,7 +21,7 @@
 
 I'm a **CS&E student** (Batch 2024–2028) based in **Sylhet, Bangladesh**, and I love building full-stack web apps with **React, Next.js, Node.js, Express and MongoDB**. I like turning small ideas into things people can actually use: AI tools, anonymous message apps, dashboards and dev utilities.
 
-<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" />
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 
 - 🔭 Building and polishing my portfolio projects
 - 🎯 Looking for **remote frontend / full-stack / MERN internships** and junior roles
