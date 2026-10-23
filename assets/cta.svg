@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs>
+  <linearGradient id="cg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0891b2"/><stop offset="0.5" stop-color="#4f46e5"/><stop offset="1" stop-color="#9333ea"/></linearGradient>
+  <clipPath id="cc"><rect width="1200" height="150" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#cc)">
+  <rect width="1200" height="150" fill="url(#cg)"/>
+  <circle cx="1090" cy="-20" r="130" fill="#ffffff" fill-opacity="0.08"/>
+  <circle cx="1160" cy="150" r="90" fill="#ffffff" fill-opacity="0.07"/>
+  <text x="60" y="68" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#ffffff">Let's build something together.</text>
+  <text x="60" y="104" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="17" fill="#e0e7ff">Hiring for a frontend, full-stack or MERN role? I'd love to talk.</text>
+  <rect x="860" y="48" width="280" height="54" rx="27" fill="#ffffff"/>
+  <text x="1000" y="82" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#312e81" text-anchor="middle">sgt.tithy.717@gmail.com</text>
+</g>
+</svg>

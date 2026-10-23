@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="214" viewBox="0 0 560 214">
+<defs>
+  <linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#1a1442"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <clipPath id="c"><rect width="560" height="214" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="560" height="214" fill="url(#cb)"/>
+  <rect width="6" height="214" fill="url(#bar)"/>
+  <text x="532" y="62" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#ffffff" fill-opacity="0.06" text-anchor="end">03</text>
+  <text x="30" y="52" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">Anonymous Feedback</text>
+  <text x="30" y="88" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="14.5" fill="#94a3b8">Collect honest feedback through a private</text><text x="30" y="110" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="14.5" fill="#94a3b8">link, with email verification.</text>
+  <rect x="30" y="140" width="75" height="26" rx="13" fill="#131c36" stroke="#2b3a67"/><text x="68" y="157" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c7d2fe" text-anchor="middle">Next.js</text><rect x="113.1" y="140" width="75" height="26" rx="13" fill="#131c36" stroke="#2b3a67"/><text x="151" y="157" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c7d2fe" text-anchor="middle">MongoDB</text><rect x="196.2" y="140" width="82" height="26" rx="13" fill="#131c36" stroke="#2b3a67"/><text x="237" y="157" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c7d2fe" text-anchor="middle">NextAuth</text><rect x="286.6" y="140" width="97" height="26" rx="13" fill="#131c36" stroke="#2b3a67"/><text x="335" y="157" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c7d2fe" text-anchor="middle">Nodemailer</text>
+  <text x="30" y="196" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#22d3ee">VIEW PROJECT  →</text>
+</g>
+<rect x="0.5" y="0.5" width="559" height="213" rx="16" fill="none" stroke="#2b3a67"/>
+</svg>

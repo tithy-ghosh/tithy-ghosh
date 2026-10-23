@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070b18"/><stop offset="0.55" stop-color="#101436"/><stop offset="1" stop-color="#1c1048"/>
+  </linearGradient>
+  <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#c4b5fd"/>
+  </linearGradient>
+  <radialGradient id="g1" cx="0.8" cy="0.2" r="0.6"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.35"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0.1" cy="0.9" r="0.6"><stop offset="0" stop-color="#06b6d4" stop-opacity="0.25"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+  </pattern>
+  <clipPath id="r"><rect width="1200" height="320" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#g1)"/>
+  <rect width="1200" height="320" fill="url(#g2)"/>
+
+  <text x="64" y="98" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4" fill="#22d3ee">FULL-STACK DEVELOPER</text>
+  <text x="62" y="172" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="62" font-weight="800" fill="url(#name)">Shrabony Ghosh Tithy</text>
+  <text x="64" y="214" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="23" fill="#cbd5e1">I build MERN &amp; Next.js products with AI built in.</text>
+
+  <rect x="64" y="248" width="436" height="38" rx="19" fill="#0b1226" stroke="#1f6f4a"/>
+  <circle cx="87" cy="267" r="6" fill="#22c55e">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="87" cy="267" r="6" fill="none" stroke="#22c55e">
+    <animate attributeName="r" values="6;15" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="104" y="272" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#bbf7d0">Open to remote internships &amp; junior roles</text>
+
+  <g transform="translate(770,70)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="5s" begin="0.0s" repeatCount="indefinite"/><rect x="0" y="0" width="60" height="26" rx="13" fill="#111a33" stroke="#22d3ee"/><text x="30" y="17" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#22d3ee" text-anchor="middle">React</text></g></g><g transform="translate(905,108)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="5s" begin="0.6s" repeatCount="indefinite"/><rect x="0" y="0" width="75" height="26" rx="13" fill="#111a33" stroke="#e2e8f0"/><text x="38" y="17" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e2e8f0" text-anchor="middle">Next.js</text></g></g><g transform="translate(800,150)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="5s" begin="1.2s" repeatCount="indefinite"/><rect x="0" y="0" width="75" height="26" rx="13" fill="#111a33" stroke="#4ade80"/><text x="38" y="17" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#4ade80" text-anchor="middle">Node.js</text></g></g><g transform="translate(950,192)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="5s" begin="1.8s" repeatCount="indefinite"/><rect x="0" y="0" width="75" height="26" rx="13" fill="#111a33" stroke="#34d399"/><text x="38" y="17" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#34d399" text-anchor="middle">MongoDB</text></g></g><g transform="translate(790,232)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="5s" begin="2.4s" repeatCount="indefinite"/><rect x="0" y="0" width="97" height="26" rx="13" fill="#111a33" stroke="#60a5fa"/><text x="48" y="17" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#60a5fa" text-anchor="middle">TypeScript</text></g></g><g transform="translate(955,258)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="5s" begin="3.0s" repeatCount="indefinite"/><rect x="0" y="0" width="82" height="26" rx="13" fill="#111a33" stroke="#38bdf8"/><text x="41" y="17" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#38bdf8" text-anchor="middle">Tailwind</text></g></g><g transform="translate(1050,150)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="5s" begin="3.6s" repeatCount="indefinite"/><rect x="0" y="0" width="90" height="26" rx="13" fill="#111a33" stroke="#c4b5fd"/><text x="45" y="17" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#c4b5fd" text-anchor="middle">AI / LLMs</text></g></g>
+
+  <rect x="0" y="314" width="1200" height="6" fill="url(#acc)" opacity="0.9"/>
+  <rect x="0" y="314" width="220" height="6" fill="#ffffff" opacity="0.55">
+    <animate attributeName="x" values="-220;1200" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="20" fill="none" stroke="#312e81" stroke-opacity="0.8"/>
+</svg>
