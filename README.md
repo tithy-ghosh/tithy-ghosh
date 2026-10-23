@@ -1,76 +1,104 @@
 <div align="center">
-  <img src="Data.jpg" alt="banner" wwidth="1500" height="500"/>
+
+```
+ ┌──────────────────────────────────────────────┐
+ │  tithy@sylhet:~$ whoami                      │
+ │  > full-stack dev · MERN · Next.js           │
+ │  tithy@sylhet:~$ status --open-to-work       │
+ │  > remote internships & junior roles ✔       │
+ └──────────────────────────────────────────────┘
+```
+
+# Hi, I'm Tithy
+
+**CS&E student at Sylhet Engineering College (2024–2028) who ships full-stack apps.**
+I like turning "what if" ideas into working products, especially ones with AI inside.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tithy--ghosh.vercel.app-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white)](https://tithy-ghosh.vercel.app)
+[![Email](https://img.shields.io/badge/Email-sgt.tithy.717@gmail.com-0b0b0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgt.tithy.717@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+
 </div>
 
-# Hi, I'm Shrabony Ghosh Tithy 👋
+---
 
-**Frontend Developer | Aspiring Researcher**
-📍 Sylhet, Bangladesh  ·  📧 sgt.tithy.717@gmail.com
+## `about.js`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrabony-ghosh-tithy/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sgt.tithy.717@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tithy-ghosh)
+```js
+const tithy = {
+  role: "Frontend / Full-Stack (MERN) Developer",
+  location: "Sylhet, Bangladesh 🇧🇩",
+  studying: "Computer Science & Engineering",
+  currentlyBuilding: "Rezume.ai, an AI interview-prep tool",
+  exploring: ["RAG pipelines", "Text-to-SQL research", "LLM-powered apps"],
+  availability: "20-30 hrs/week · remote · project-based or internship",
+  lookingFor: ["Frontend internships", "Full-stack / MERN junior roles"],
+  funFact: "I debug best after midnight. This README was written at 12 AM.",
+};
+```
 
 ---
 
-## 💫 About Me
-I'm a passionate Frontend Developer focused on building responsive and modern 
-web experiences. I enjoy turning ideas into clean, user-friendly interfaces and 
-continuously improving my development skills through hands-on projects.
+## 🛠 Stack
 
--  BSc in Computer Science & Engineering — Sylhet Engineering College (2024–2028)
--  Currently learning: **Next.js** for interactive and dynamic web application
--  Ask me about: HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js, Mongodb
--  Goal: Grow into a confident and professional Full Stack Developer
--  How to reach me: sgt.tithy.717@gmail.com
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-
-**Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-**Auth & Security**
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-**Version Control**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,tailwind,vite,git,github,vercel&perline=12" alt="Tech stack" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Things I've shipped
 
-| Project | Description | Live |
+| Project | What it does | Built with |
 |---|---|---|
-| [Github-Profile-Analyzer](https://github.com/tithy-ghosh/github-profile-analyzer) | A React app to explore any GitHub profile with visual insights on languages, repositories, and activity — built with Axios, Recharts, and Tailwind CSS. | [Demo](https://github-profile-analyze-2.netlify.app/) |
-| [Vault-Manager](https://github.com/tithy-ghosh/Vault-Manager) | Vault Manager — A local password manager built with React that encrypts your credentials right in the browser — no server, no cloud, just you. | [Demo](https://vault-manager-2.vercel.app/) |
-| [Task-Zen](https://github.com/tithy-ghosh/Task-Zen) |  Task Zen — A clean React task manager with priority levels, due dates, and filtering — all saved locally in your browser. | [Demo](https://task-zen-sooty-kappa.vercel.app/) |
-| [Snake-Game](https://github.com/tithy-ghosh/Snake-Game) |  Snake Game — A classic Snake game built with vanilla JavaScript and Tailwind CSS, featuring smooth gameplay, speed progression, and high score tracking. | [Demo](https://snake-game-hn8y.vercel.app/) |
+| **[Rezume.ai](https://github.com/tithy-ghosh/REPO-NAME)** | Paste a job description, get a tailored interview-prep report | Next.js 14 · AI |
+| **[Mystery Message](https://github.com/tithy-ghosh/REPO-NAME)** | Anonymous messaging with auth and AI-suggested messages | Next.js · MongoDB · NextAuth · OpenAI |
+| **[Anonymous Feedback](https://github.com/tithy-ghosh/REPO-NAME)** | Collect honest feedback via a private link, with email verification | Next.js · MongoDB · NextAuth · Nodemailer |
+| **[GitHub Profile Analyzer](https://github.com/tithy-ghosh/REPO-NAME)** | Turns any GitHub username into charts and insights | React · Recharts · GitHub REST API |
+| **[Job Analyzer](https://github.com/tithy-ghosh/REPO-NAME)** | Generates interview reports from a resume and job description | Node · Express · React · Vite · Gemini |
+| **[Portfolio](https://tithy-ghosh.vercel.app)** | My personal site | React · Vite · Tailwind |
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 `git log --oneline` (my journey so far)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tithy-ghosh&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tithy-ghosh&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tithy-ghosh&theme=tokyonight"/>
-</p>
+```
+a1f9c2e  2026  Building AI products, exploring RAG and Text-to-SQL research
+7d3b8e4  2025  Shipped multiple full-stack MERN / Next.js projects
+3c5a1f0  2024  Started CS&E at Sylhet Engineering College
+0000001  ...    Wrote my first "Hello, World" and never looked back
+```
+
+---
+
+## 🎯 How I work
+
+- **Ship first, polish fast.** A working demo beats a perfect plan.
+- **Readable code over clever code.** Future me has to read it too.
+- **Scope before price.** Send me the project details and I'll tell you honestly how long it takes.
+
+---
+
+<details>
+<summary><b>📨 Want to work together? (click)</b></summary>
+
+<br>
+
+I'm open to **remote frontend, full-stack and MERN** internships, junior roles, and small project-based work.
+
+Send me:
+1. What you're building
+2. Rough timeline
+3. Any links, designs or docs you have
+
+I'll reply with scope, timeline and next steps.
+
+📧 sgt.tithy.717@gmail.com
+
+</details>
+
+<div align="center">
+
+<sub>Built with curiosity, caffeine and a lot of `console.log`</sub>
+
+</div>
